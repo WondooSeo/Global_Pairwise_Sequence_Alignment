@@ -2,7 +2,7 @@
 
 # Global Pairwise Sequence Alignment
 
-It's raw code of global pairwise sequence alignment written with Python.
+It's raw code of global pairwise sequence alignment algorithm written with Python.
 
 Only you need is pure Python. You don't have to download any package from Anaconda, and so on.
 
