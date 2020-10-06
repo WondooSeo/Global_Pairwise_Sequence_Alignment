@@ -6,7 +6,7 @@ It's raw code of global pairwise sequence alignment written with Python.
 
 Only you need is pure python. You don't have to download any package from Anaconda, and so on.
 
-Referred version : 3.
+Referred version : 3.X
 
 # Before you copy the code...
 
