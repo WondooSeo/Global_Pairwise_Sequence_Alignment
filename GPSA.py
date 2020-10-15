@@ -72,7 +72,7 @@ rev_FASTA_1 = []
 rev_FASTA_2 = []
 
 # Find the REAL sequence of FASTA codes
-while (FASTA_1_len >= 0 or FASTA_2_len >= 0):
+while (FASTA_1_len > 0 or FASTA_2_len > 0):
     if (FASTA_1_len >= 0 and FASTA_2_len >= 0 and score_mat[FASTA_1_len][FASTA_2_len] == score_mat[FASTA_1_len - 1][FASTA_2_len - 1] + match):
         rev_FASTA_1.append(FASTA_1[FASTA_1_len])
         rev_FASTA_2.append(FASTA_2[FASTA_2_len])
