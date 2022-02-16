@@ -10,6 +10,6 @@ Referred version : 3.X
 
 # Before you copy the code...
 
-If you come here for your assignment, please ruminate the algorithm and restructure the code, please.
+If you come here for your assignment, please ruminate the algorithm and restructure the code.
 
-It is really easy to code it more than you thought.
+Please remind; It may not work well.
